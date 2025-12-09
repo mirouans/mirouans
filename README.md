@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIR</h1>
-<h3 align="center">I'am student in in University Geulma</h3>
+<h3 align="center">I'am student in  University Geulma</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
